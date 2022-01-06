@@ -1,0 +1,6 @@
+name: Butterfly
+version: ${pom.version}
+main: uk.virgodevelopment.ButterflyPlugin
+
+author: Staud
+description: Lightweight ChatColor plugin

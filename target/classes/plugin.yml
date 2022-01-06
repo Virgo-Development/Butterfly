@@ -1,0 +1,6 @@
+name: Butterfly
+version: 1.0-SNAPSHOT
+main: uk.virgodevelopment.ButterflyPlugin
+
+author: Staud
+description: Lightweight ChatColor plugin
