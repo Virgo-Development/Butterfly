@@ -1,7 +1,5 @@
 # Butterfly
 
-## Light Weight Chat Color plugin using the Spigot API.
-
 - Permissions
+- The permission required for each color is 'color.' and after the . you would put the specified color. For example 'color.red' would grant the player the RED Chat Color.
 
-- The permissions are set by 'color.' and then followed by the color of choice so for example 'color.red' would give the RED Chat Color.
